@@ -10,6 +10,4 @@ export function managePresents(state, action){
     return state;
   } 
 
-
-
 }
